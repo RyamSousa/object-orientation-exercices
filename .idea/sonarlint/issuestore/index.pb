@@ -23,8 +23,6 @@ M
 src/main/question32/Main.java,5\c\5c9893a0cc49453dab18d80a9061a6ef70976b14
 M
 src/main/question33/Main.java,1\2\127a93fa62802da012196153626845dc94dc1af6
-Z
-*src/main/question33/RegistroAcademico.java,b\d\bdccaa691d36f952e30fd449525521482479ba64
 Q
 !src/main/question29/Contador.java,0\4\04afa350410f66ec54940fe84227bc1dcf78567c
 O
@@ -33,8 +31,6 @@ Q
 !src/main/question40/Prefeito.java,2\b\2b37dde1d41697cbfa04fcf971b94b0636bddce1
 X
 (src/main/question38/EventoDelegacao.java,6\7\67eb06d0c89eda27825a2bb392777a301a5279a0
-Q
-!src/main/question38/DataHora.java,e\1\e1aad5c4742b7a9572baeac2654a46aa98c1bd75
 V
 &src/main/question39/LivroLivraria.java,3\9\3977c9c2bb2e600d6f3b7a332bd2b2b3b251e0de
 X
@@ -47,8 +43,6 @@ M
 src/main/question38/Main.java,a\5\a56e893c7b935baeceb6533ee62e42842c92d37a
 M
 src/main/question37/Main.java,9\b\9b7f30bff4d7c78615dbc1a7651359e82a15a84b
-V
-&src/main/question32/StaticMethods.java,9\0\908a214988882185ab6604e5979a3c6b1aa1e774
 P
  src/main/question37/Cliente.java,4\6\46092568b62918de20a8d1845ae40ae12df75fbe
 M
