@@ -18,5 +18,7 @@ public class Main {
 
         System.out.println(eventoHeranca);
         System.out.println(eventoDelegacao);
+
+        scanner.close();
     }
 }

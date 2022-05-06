@@ -44,5 +44,7 @@ public class Main {
             System.out.println("Posição: "+listPlayers[i].getPosition());
             System.out.println();
         }
+
+        scanner.close();
     }
 }

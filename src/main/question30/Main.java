@@ -35,5 +35,7 @@ public class Main {
                     i = 0;
             }
         }
+
+        scanner.close();
     }
 }

@@ -14,7 +14,7 @@ public class Main {
         int amountFloors = scanner.nextInt();
 
         elevador.inicialize(capacityPeoples, amountFloors);
-        System.out.println(elevador.toString());
+        System.out.println(elevador);
 
         // Elevador subindo
         while (i < amountFloors){
@@ -26,7 +26,7 @@ public class Main {
 
                 if (enter) System.out.println(peoples+" entraram.");
                 else System.out.println(peoples+" número de pessoas superior a capaciade atual do elevador.");
-                System.out.println(elevador.toString());
+                System.out.println(elevador);
             }
 
             elevador.moveUp();
@@ -50,6 +50,7 @@ public class Main {
             i--;
         }
 
-        System.out.println(elevador.toString());
+        System.out.println(elevador);
+        scanner.close();
     }
 }

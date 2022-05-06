@@ -30,5 +30,7 @@ public class Main {
 
         System.out.println(governador);
         System.out.println(prefeito);
+
+        scanner.close();
     }
 }

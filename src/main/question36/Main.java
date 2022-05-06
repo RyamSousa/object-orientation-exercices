@@ -19,5 +19,7 @@ public class Main {
 
         System.out.println("Determinante: "+matriz.determinante());
         matriz.imprime();
+
+        scanner.close();
     }
 }

@@ -29,5 +29,7 @@ public class Main {
         System.out.println("Nome: "+aluno.getNome());
         System.out.println("Media do aluno: "+aluno.media());
         System.out.println("Quanto precisa para a prova final: "+aluno.provaFinal());
+
+        scanner.close();
     }
 }

@@ -25,5 +25,7 @@ public class Main {
         System.out.println("Número de identificação: "+ fatura.getIdentificationNumber());
         System.out.println("Valor total: "+ fatura.calculaTotal());
         System.out.println("Descrição: "+ fatura.getDescription());
+
+        scanner.close();
     }
 }

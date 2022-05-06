@@ -23,5 +23,7 @@ public class Main {
         int year = scanner.nextInt();
 
         System.out.println(mySchedule.listDay(day, month, year));
+
+        scanner.close();
     }
 }

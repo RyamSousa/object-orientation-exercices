@@ -28,5 +28,7 @@ public class Main {
 
         System.out.println(livroLivraria);
         System.out.println(livroBiblioteca);
+
+        scanner.close();
     }
 }
