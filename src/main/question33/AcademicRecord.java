@@ -8,12 +8,11 @@ public class AcademicRecord {
     private double chargePercentage;
 
     public void initializeRecord(String name, int courseCode, double chargePercentage){
+        registrationsNumber++;
         this.name = name;
         this.registration = registrationsNumber;
         this.courseCode = courseCode;
         this.chargePercentage = chargePercentage;
-
-        setRegistrationsNumber(getRegistrationsNumber() + 1);
     }
 
     public double calcMonthlyPayment(){
