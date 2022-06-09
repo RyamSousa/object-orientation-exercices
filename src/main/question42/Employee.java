@@ -16,7 +16,7 @@ public class Employee {
         this.valorHora = 2;
     }
 
-    public void salaryCalc(int amountHours){
+    public void salaryCalc(int amountHours) {
         this.setSalario(this.getValorHora() * amountHours);
     }
 
@@ -46,9 +46,9 @@ public class Employee {
 
     @Override
     public String toString() {
-        return "Funcionario: \n"+
-        "\tNome: "+ this.nome + "\n"+
-        "\tValor por hora: "+ this.valorHora + "\n"+
-        "\tSalario: "+ this.salario;
+        return "Funcionario: \n" +
+                "\tNome: " + this.nome + "\n" +
+                "\tValor por hora: " + this.valorHora + "\n" +
+                "\tSalario: " + this.salario;
     }
 }
